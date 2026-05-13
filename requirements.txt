@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+shap
+umap-learn
+reportlab
