@@ -146,7 +146,6 @@ Per-patient genomic reports with therapy suggestions.
 
 # Screenshots
 
-Add screenshots here after uploading:
 
 ```markdown
 ![Dashboard](assets/screenshots/dashboard.png)
