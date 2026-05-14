@@ -12,8 +12,6 @@ Interactive multi-module platform for cancer genomics analysis, immunotherapy bi
 - Mutation clustering
 - Molecular subtype classification
 - Explainable AI with SHAP
-- Neoantigen prediction
-- Multi-omics integration
 - Clinical genomic report generation
 - Oncoprints and survival analysis
 
@@ -139,8 +137,7 @@ Per-patient genomic reports with therapy suggestions.
 - Tumor subtype classification
 - SHAP explainability
 - Mutation clustering
-- Neoantigen prediction
-- Multi-omics integration
+
 
 ---
 
